@@ -10,8 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Vallim</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Demetrio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Della Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Carlos Latorre</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>
 ## Descrição
 
 <p align="center">
