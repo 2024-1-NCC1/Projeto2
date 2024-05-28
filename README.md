@@ -5,7 +5,7 @@
 </p>
 
 # Recycle Rush
-
+ 
 ## Grupo 2
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Vallim</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Demetrio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Della Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Carlos Latorre</a>
