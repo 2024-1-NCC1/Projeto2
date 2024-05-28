@@ -8,9 +8,9 @@
  
 ## Grupo 2
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Felipe Vallim</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gustavo Demetrio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Della Rosa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Carlos Latorre</a>
+## Integrantes: Felipe Vallim</a>, Gustavo Demetrio</a>, Pedro Della Rosa</a>, Carlos Latorre</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Onça</a>
+## Professores Orientadores: Gilles Pedroza Leite</a>, Fabiano Onça</a>
 ## Descrição
 
 <p align="center">
