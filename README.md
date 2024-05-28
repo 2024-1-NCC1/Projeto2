@@ -19,11 +19,9 @@
 </p>
 
 ## [link do jogo](https://drive.google.com/file/d/1on_n31W9G3MF911jwG1M4bg39xxUQ1Qm/view?usp=sharing)
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O projeto se consiste em um, feito através da unity. Sua função é fazer com que os usuários se divirtam com um simples ato de colocar o lixo em eu devido lugar e efetuar a reciclagem, nossa intenção é fazer com que esta tarefa se torne divertida e incentiva-los à pratica dessa atividade.
 <br><br>
 
 ## 🛠 Estrutura de pastas
