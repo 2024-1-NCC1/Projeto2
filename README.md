@@ -21,7 +21,7 @@
 ## [link do jogo](https://drive.google.com/file/d/1on_n31W9G3MF911jwG1M4bg39xxUQ1Qm/view?usp=sharing)
 
 <br><br>
-O projeto se consiste em um, feito através da unity. Sua função é fazer com que os usuários se divirtam com um simples ato de colocar o lixo em seu devido lugar e efetuar a reciclagem, nossa intenção é fazer com que esta tarefa se torne divertida e incentiva-los à pratica dessa atividade.
+O projeto se consiste em um jogo feito através da unity. Sua função é fazer com que os usuários se divirtam com um simples ato de colocar o lixo em seu devido lugar e efetuar a reciclagem, nossa intenção é fazer com que esta tarefa se torne divertida e incentiva-los à pratica dessa atividade.
 <br><br>
 
 ## 🛠 Estrutura de pastas
