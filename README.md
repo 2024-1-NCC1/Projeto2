@@ -4,24 +4,27 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Recycle Rush
- 
-## Grupo 2
+# Nome do Projeto
 
-## Integrantes: Felipe Vallim</a>, Gustavo Demetrio</a>, Pedro Della Rosa</a>, Carlos Latorre</a>
+## Nome do Grupo
 
-## Professores Orientadores: Gilles Pedroza Leite</a>, Fabiano Onça</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Recycle Rush" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
-## [link do jogo](https://drive.google.com/file/d/1on_n31W9G3MF911jwG1M4bg39xxUQ1Qm/view?usp=sharing)
 
+De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-O projeto se consiste em um jogo feito através da unity. Sua função é fazer com que os usuários se divirtam com um simples ato de colocar o lixo em seu devido lugar e efetuar a reciclagem, nossa intenção é fazer com que esta tarefa se torne divertida e incentiva-los à pratica dessa atividade.
+Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+<br><br>
+May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -57,10 +60,28 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
+<b>Android:</b>
+
+Faça o Download do JOGO.apk no seu celular.
+Execute o APK e siga as instruções de seu telefone.
+
+```sh
+Coloque código do prompt de comnando se for necessário
+```
+
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+
+```sh
+Coloque código do prompt de comnando se for necessário
+```
+
+<b>HTML:</b>
+
+Não há instalação!
+Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -94,14 +115,13 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Trabalho em andamento
 
 ## 📋 Licença/License
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2024-1-NCC1/Projeto2">Recycle Rush</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/fecaphub">FECAP, Felipe Vallim, Gustavo Demetrio, Pedro Della Rosa, Carlos Latorre</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <[https://github.com/iuricode/readme-template](https://assetstore.unity.com/packages/tools/modeling/mess-maker-free-213803)>
+1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
 4. <https://freesound.org/>
